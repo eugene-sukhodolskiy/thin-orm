@@ -1,0 +1,19 @@
+{
+    "name": "Thin ORM",
+    "ver": "1.0",
+    "author": "E. Sukhodolskiy",
+    "tags": [
+        "fury module",
+        "php",
+        "sql",
+	"fury"
+    ],
+    "type": "web",
+    "main_lang": "php",
+    "status": "open",
+    "project_color": "#09299E",
+    "git_url": "https://github.com/eugene-sukhodolskiy/thin-orm",
+    "release_url": null,
+    "favicon": null,
+    "description": "PHP module for fury framework. For working with database entities like with objects"
+}
